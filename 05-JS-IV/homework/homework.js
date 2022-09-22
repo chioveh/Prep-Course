@@ -141,6 +141,7 @@ function sumarLikesDeUsuario (usuario) {
   return suma;
 }
 
+
 function agregarMetodoCalculoDescuento (producto) {
   // Agregar un método (función) al objeto "producto" llamado "calcularPrecioDescuento"
   // Este método debe multiplicar el "precio" del "producto" ("producto.precio" o "producto[precio]") y "porcentajeDeDescuento" para obtener el descuento
